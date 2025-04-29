@@ -6,9 +6,7 @@ Shiz-ify is a simple batch script that enables Shizuku on any Android device via
 
 2. Shizuku Authorization: If Shizuku isn't authorized, the script will handle the authorization process.
 
-3. Error Handling: The script includes basic error handling and provides helpful output in case something goes wrong.
-
-4. No Need for Manual Setup: Users don't need to manually handle Shizuku authorization—just run the script and let it do the work!
+3. No Need for Manual Setup: Users don't need to manually handle Shizuku authorization—just run the script and let it do the work!
 
 # Prerequisites:
 
@@ -22,9 +20,9 @@ Shiz-ify is a simple batch script that enables Shizuku on any Android device via
 
 1. Ensure you have Android Studio installed on your machine.
 
-2. Download or clone the batch/executable from this repository.
+2. Download or clone the batch from this repository.
 
-3. Run the Shiz-ify.bat/Shiz-ify.exe file.
+3. Run the Shiz-ify.bat file.
 
 The script will check if your device is connected, verify Shizuku authorization, and if necessary, authorize it automatically.
 Unfortunately, Windows Defender might flag the batch file as malicious. However, i ensure you it is 100% safe.
