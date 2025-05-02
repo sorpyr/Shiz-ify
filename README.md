@@ -20,7 +20,7 @@ Shiz-ify is a simple batch script that enables Shizuku on any Android device via
 
 1. Ensure you have Android Studio installed on your machine.
 
-2. Downloa the batch from this repository.
+2. Download the batch from this repository.
 
 3. Run the Shiz-ify.bat file.
 
